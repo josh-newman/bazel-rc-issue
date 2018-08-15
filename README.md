@@ -1,4 +1,4 @@
-Reproduces bazelbuild/bazel#5904.
+Reproduces [bazelbuild/bazel#5904](https://github.com/bazelbuild/bazel/issues/5904).
 
 Run repro.sh:
 
