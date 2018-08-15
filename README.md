@@ -1,3 +1,5 @@
+Reproduces bazelbuild/bazel#5904.
+
 Run repro.sh:
 
 ```lang=text
